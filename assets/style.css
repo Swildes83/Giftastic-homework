@@ -1,0 +1,28 @@
+button {
+    margin:10px;
+
+}
+
+#buttonArea {
+    background-color:gray;
+  
+}
+
+#gifArea {
+	background-color: lightblue;
+}
+
+.gifDiv {
+	float: left;
+	margin:5px;
+	border: 2px solid black;
+}
+
+.jumbotron {
+    text-align: center;
+    
+}
+
+#addWrath {
+    color: red;
+}
